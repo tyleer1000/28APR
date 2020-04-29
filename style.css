@@ -1,0 +1,21 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: rgb(33, 148, 211)
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+ }
+
+.grid-item {
+    background-color: rgba(129, 148, 211);
+    border: 2px solid rgba(240,240,240)
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.title{
+    color: red;
+    font-size: 30;
+}
